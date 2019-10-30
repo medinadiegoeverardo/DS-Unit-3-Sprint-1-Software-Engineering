@@ -6,7 +6,7 @@ import numpy as np
 # filename, file_extension = os.path.splitext(file)
 # if filename != 'webarchive' or 'txt':
 
-with open('/Users/diego/Documents/LambdaUnit3/classes/words.webarchive') as inpt:
+with open('/Users/diego/Documents/LambdaUnit3/rand_words_package/words.webarchive') as inpt:
     dictionary = inpt.read()
     words = dictionary.splitlines()
 
