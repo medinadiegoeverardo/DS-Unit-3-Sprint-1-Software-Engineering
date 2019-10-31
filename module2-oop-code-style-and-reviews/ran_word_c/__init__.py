@@ -13,6 +13,8 @@ with open('/Users/diego/Documents/LambdaUnit3/words.webarchive') as inpt:
 class Random():
 
     """
+    x = Random(words)
+
     For dataframe with custom shape,
     input a variable inplace of entire words dictionary like so:
         
