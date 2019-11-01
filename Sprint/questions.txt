@@ -1,0 +1,4 @@
+1) Making sure that both your code is readable and understandable by other developer/s (names and descriptions), and that the
+documentation provided for the user is as well. Having someone else look at it and see if they can understand it, without knowing anything about the code or process is very important.
+
+2) Containers are useful precisely because of all the variety. It keeps things organized/contained and easily accessible.
